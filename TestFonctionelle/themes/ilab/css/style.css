@@ -1,0 +1,201 @@
+.main.main-header {
+    height: 150px;
+}
+
+.main-navigation {
+    margin-top: -50px;
+    margin-left: 200px;
+}
+
+.main-navigation li {
+    float: left;
+    text-decoration: none;
+}
+
+.form-search {
+    width: 600px;
+}
+
+.cool {
+    margin-top: 28px;
+    margin-left: 30%;
+}
+
+.btn-outlines {
+    background-color: #0a7bc1;
+    color: white;
+}
+
+.form-submit {
+    margin-bottom: 80px;
+    margin-left: 590px;
+    background-color: #08639b;
+    border: #08639b;
+    color: white;
+}
+
+.main-navigation li a {
+    display: block;
+    color: #353b48;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.logo {
+    margin-top: 12px;
+}
+
+.dat {
+    color: #1b6d85;
+}
+
+.bton {
+    margin-top: 10%;
+    height: 40px;
+    background-color: #F26822;
+    margin-left: 10%;
+    width: 110px;
+}
+
+.jo {
+    margin: 10px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 57px;
+}
+
+.card {
+    background-image: url("../images/ground.jpeg");
+    /* The image used */
+    background-color: #cccccc;
+    /* Used if the image is unavailable */
+    height: 799px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=65);
+    height: 300px;
+}
+
+.fa {
+    margin-top: 80px
+}
+
+.article-list .views-row {
+    margin: 40px 0;
+}
+
+.article-list p {
+    line-height: 1.5;
+}
+
+.article-list h1 {
+    color: #ED217C;
+    font-family: Lato;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 57px;
+    width: 552px;
+}
+
+.search-block-form {
+    margin-top: 300px;
+    margin-left: 150px;
+}
+
+.article-list .views-field-view-node a {
+    color: white;
+    width: 50px;
+    text-decoration: none;
+}
+
+.article-list h3 a {
+    color: #464646;
+    text-decoration: none;
+}
+
+.foot {
+    background-image: url("../images/imag");
+    background-color: #cccccc;
+    /* Used if the image is unavailable */
+    height: 799px;
+    /* You must set a specified height */
+    background-position: right;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+.ziz {
+    background-image: url("../images/card5.jpeg");
+    background-color: #cccccc;
+    /* Used if the image is unavailable */
+    height: 650px;
+    /* You must set a specified height */
+    background-position: left;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+.lato {
+    font-family: Lato;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 57px;
+    width: 552px;
+    text-align: left;
+    color: #47525E;
+}
+
+.fi {
+    background-image: url("../images/imag");
+    height: 400px;
+    /* You must set a specified height */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+}
+
+.ao {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-position: right;
+    /* Center the image */
+    width: 150px;
+    height: 75px;
+    height: 100%;
+    width: 100%;
+}
+
+#block-socialmedialinks {
+    margin-left: 357px;
+    width: 455px;
+    justify-items: baseline;
+}
+
+#block-ilab-account-menu {
+    margin-left: 567px;
+    margin-top: -20px;
+    background-color: #08639b;
+}
+
+#block-socialmedialinks li a {
+    color: lightgray;
+}

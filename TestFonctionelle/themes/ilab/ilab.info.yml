@@ -1,0 +1,21 @@
+name: Innovation Lab1.0
+description: Drupal 8 theme en construction
+type: theme
+core: 8.x
+libraries:
+- Ilab/global-css
+- Ilab/global-js
+stylesheets-remove:
+- core/themes/stable/css/views/views.module.css
+- core/themes/stable/css/system/components/align.module.css
+
+
+regions:
+  content: 'Main content'
+  header: 'Header'
+  footer_first: 'first'
+  footer_second: 'seconde'
+  footer: 'Footer'
+  sidebar: 'Sidebar'
+  main_navigation: 'Main Navigation'
+  primary_menu: 'Primary Menu'
